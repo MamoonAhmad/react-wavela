@@ -1,0 +1,28 @@
+{
+  "name": "react-wavela",
+  "version": "1.0.0",
+  "description": "A simple state management library for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamoonAhmad/react-wavela.git"
+  },
+  "keywords": [
+    "react",
+    "state",
+    "js",
+    "state",
+    "wavela",
+    "react",
+    "wavela"
+  ],
+  "author": "Mamoon Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MamoonAhmad/react-wavela/issues"
+  },
+  "homepage": "https://github.com/MamoonAhmad/react-wavela#readme"
+}
